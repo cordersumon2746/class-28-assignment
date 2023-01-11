@@ -1,0 +1,59 @@
+.t{
+    margin-top: 100px;
+}
+.c{
+    background: #8490ff;
+    color: white;
+}
+/* app */
+.app-div ul{
+    list-style: none;
+}
+
+.app-div{
+    text-align: center;
+}
+.app-div li{
+    margin-top: 25px;
+    font-size: 20px;
+}
+.app-div h1{
+    display: inline-block;
+    background: #f9f9ff;
+}
+
+.app-div button{
+    border: 1px solid #8490ff;
+    color: #8490ff;
+}
+.app-div li:first-child{
+    margin-top: -10px;
+}
+/* doe */
+.doe-box button{
+    box-shadow: 2px 2px 5px black;
+}
+
+.doe-box img{
+    width: 100px;
+    margin-top: -115px;
+    margin-left: -120px;
+}
+
+/* form */
+.form-section{
+    background: #f9f9ff;
+}
+textarea{
+    width: 100%;
+}
+
+/* header-logo */
+.header-logo img{
+    width: 25%;
+}
+
+.footer-content{
+    width: 100%;
+    text-align: center;
+}

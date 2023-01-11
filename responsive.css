@@ -1,0 +1,146 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* 992 */
+@media(max-width:992px){
+    .h1 {
+        font-size: 25px;
+    }
+    p {
+        font-size: 16px;
+    }
+    .app-div.bg-white.shadow-lg.pe-3.py-5 {
+        margin-bottom: 20px;
+    }
+    .doe-box img {
+        width: 50%;
+       
+    }
+    h1 {
+        font-size: 30px;
+    }
+    .text-center.mb-5 {
+        font-size: 20px;
+    }
+    .btn.btn-info.mt-4.btn-lg {
+        padding: 6px;
+    }
+}
+
+/* 768 */
+@media (max-width:767px){
+    .w {
+      
+        width: 42% !important;
+    }
+    .t {
+        margin-top: 9px;
+    }
+    .banner-section{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .w-75 {
+        width: 100% !important;
+        
+        height: 100%;
+    }
+    .text-light {
+        font-size: 28px;
+    }
+    .doe-box.shadow-lg.text-center.p-2.py-4.mt-5 {
+        margin-bottom: 62px;
+    }
+    
+}
+
+/* 575 */
+@media (max-width:575px){
+    .w {
+        width: 26% !important;
+    }
+    .header-logo{
+        width: 100%;
+        text-align: center;
+        margin: auto;
+        
+        
+    }
+    .navbar-nav{
+        margin-top: -20px !important;
+        width: 20%;
+      
+        
+    }
+    textarea{
+        width: 100%;
+    }
+    
+    .t {
+       
+        width: 100%;
+        text-align: center;
+        margin-bottom: 25px;
+    }
+    .banner-img {
+        width: 100%;
+       text-align: center;
+    }
+    .w-75 {
+        width: 40% !important;
+    }
+    .about-img {
+        width: 100%;
+        text-align: center;
+    }
+    article {
+        width: 100%;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .h1 {
+        font-size: 24px;
+    }
+    p {
+        font-size: 15px;
+    }
+    .text-light {
+        font-size: 22px;
+    }
+    h1 {
+        font-size: 22px;
+    }
+    .app-div li {
+       
+        font-size: 15px;
+    }
+    .btn.btn-white.btn-lg.mt-4 {
+       
+        padding: 5px;
+    }
+    .doe-box img {
+        width: 22%;
+    }
+    .btn.btn-info.mt-4.btn-lg {
+        padding: 1px;
+    }
+    .mb-3 {
+        font-size: 20px;
+    }
+    h5 {
+        font-size: 15px;
+    }
+    .footer-content.text-center.bg-dark.text-light.py-3 {
+        width: 100%;
+        margin: auto;
+        text-align: center;
+    }
+    .mt-5.ms-5 {
+        margin-left: 0 !important;
+    }
+}
